@@ -15,3 +15,7 @@ Packages required
 OpenCV-python
 mediapipe
 
+
+https://github.com/vaibhavj-11/Virtual_Mouse/assets/71918594/dddc648c-80d3-4739-8288-658fab12d816
+
+
